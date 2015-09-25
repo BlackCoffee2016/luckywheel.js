@@ -1,5 +1,5 @@
 # luckywheel.js
-[DEMO](http://wucao.github.io/luckywheel.js/)
+[DEMO](http://wucao.github.io/luckywheel.js/index.html)
 
 ``` 
 <script type="text/javascript" src="jquery.min.js"></script>
